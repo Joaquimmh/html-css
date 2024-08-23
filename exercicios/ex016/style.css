@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+* {font-family: Montserrat;
+   /*heigth: 100%;*/}
+
+body {background-image: linear-gradient(to top, #7b2cbf, #3c096c);}
+
+p {text-align: justify;}
+
+main{background-color: white;
+     border-radius: 20px;
+     box-shadow: 0px 0px 40px #240046;
+     width: 600px;
+     padding: 15px;
+     margin: auto;
+    }
+
+mark{background-color: #70e000;}
+
+h1 {color: #007200;
+    text-align: center;
+    text-shadow: 0px 0px 10px #38b0005b}
+
+h2 {color: #5a189a;}
